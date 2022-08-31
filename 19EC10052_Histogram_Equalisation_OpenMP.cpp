@@ -1,6 +1,5 @@
 /*	Rekha Lokesh
 	19EC10052
-	HP3 OPENMP Individual Assignment 1
 */
 	
 	
